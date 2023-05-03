@@ -1,6 +1,14 @@
 // new examples
 // Objectives:
 // Export the garageSale array from guided_practice_data.js and the require the data in guided_practice.js.
+// Introduce Node.js and how it is used in development.
+// Understand the purpose of scope in JavaScript.
+// Use and explain the purpose of array methods.
+// .forEach()
+// .sort()
+// .map()
+// .reduce()
+// .filter()
 
 const garageSale = require("./index_data");
 
